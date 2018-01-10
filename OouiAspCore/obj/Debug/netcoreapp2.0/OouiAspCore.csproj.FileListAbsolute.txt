@@ -1,0 +1,12 @@
+D:\Data\Desenvolvimento\OouiAspCore\OouiAspCore\bin\Debug\netcoreapp2.0\OouiAspCore.deps.json
+D:\Data\Desenvolvimento\OouiAspCore\OouiAspCore\bin\Debug\netcoreapp2.0\OouiAspCore.runtimeconfig.json
+D:\Data\Desenvolvimento\OouiAspCore\OouiAspCore\bin\Debug\netcoreapp2.0\OouiAspCore.runtimeconfig.dev.json
+D:\Data\Desenvolvimento\OouiAspCore\OouiAspCore\bin\Debug\netcoreapp2.0\OouiAspCore.dll
+D:\Data\Desenvolvimento\OouiAspCore\OouiAspCore\obj\Debug\netcoreapp2.0\OouiAspCore.csprojResolveAssemblyReference.cache
+D:\Data\Desenvolvimento\OouiAspCore\OouiAspCore\obj\Debug\netcoreapp2.0\OouiAspCore.csproj.CoreCompileInputs.cache
+D:\Data\Desenvolvimento\OouiAspCore\OouiAspCore\obj\Debug\netcoreapp2.0\OouiAspCore.AssemblyInfoInputs.cache
+D:\Data\Desenvolvimento\OouiAspCore\OouiAspCore\obj\Debug\netcoreapp2.0\OouiAspCore.AssemblyInfo.cs
+D:\Data\Desenvolvimento\OouiAspCore\OouiAspCore\bin\Debug\netcoreapp2.0\OouiAspCore.pdb
+D:\Data\Desenvolvimento\OouiAspCore\OouiAspCore\obj\Debug\netcoreapp2.0\OouiAspCore.Pages.MainPage.xaml.g.cs
+D:\Data\Desenvolvimento\OouiAspCore\OouiAspCore\obj\Debug\netcoreapp2.0\OouiAspCore.dll
+D:\Data\Desenvolvimento\OouiAspCore\OouiAspCore\obj\Debug\netcoreapp2.0\OouiAspCore.pdb
